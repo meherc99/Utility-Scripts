@@ -2,7 +2,10 @@
 
 A collection of utility scripts for use.
 
-## Cleaning disk space
+## 1. Cleaning disk space
 ```
 bash clean_disk.sh
 ```
+
+## 2. LinkedIn Auto accept Invite
+Copy and paste code in console.
